@@ -1,0 +1,10 @@
+flask
+explainerdashboard==0.5.1
+dash==2.17.0
+dash-bootstrap-components==1.6.0
+pandas
+numpy
+scikit-learn
+joblib
+waitress
+ucimlrepo

@@ -1,0 +1,10 @@
+﻿version: '3.8'
+
+services:
+  abalone-all-in-one:
+    build: .
+    ports:
+      - "5000:5000"
+      - "9050:9050"
+    volumes:
+      - ./trained_model:/app/trained_model
