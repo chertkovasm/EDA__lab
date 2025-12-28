@@ -1,4 +1,4 @@
-Lab6
+Lab6 - abalone_project
 
 Дашборд: http://localhost:9050
 
